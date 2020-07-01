@@ -206,12 +206,158 @@
         "lines": [
           1,
           1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null
         ]
       },
       "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2005/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2005/spec/features/artists/destroy_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2005/spec/features/artists/edit_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2005/spec/features/artists/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2005/spec/features/songs/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2005/spec/features/songs/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -312,9 +458,38 @@
           null
         ]
       },
-      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2005/app/controllers/songs_controller.rb": {
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2005/app/controllers/artists_controller.rb": {
         "lines": [
           1,
+          1,
+          7,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
           1,
           2,
           null,
@@ -327,8 +502,21 @@
           1,
           null
         ]
+      },
+      "/Users/meghanstang/turing-staff/2module/lesson_repos/set_list_2005/app/controllers/songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1593626573
+    "timestamp": 1593637861
   }
 }

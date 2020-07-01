@@ -1,0 +1,9 @@
+<h1>All Artists</h1>
+
+<% @artists.each do |artist| %>
+  <p><%= artist.name %></p>
+  <%= link_to "Edit #{artist.name}", "/artists/#{artist.id}/edit" %>
+  <%= button_to "Delete #{artist.name}", "/artists/#{artist.id}", method: :delete%>
+<% end %>
+
+<%= link_to "New Artist", "/artists/new" %>
